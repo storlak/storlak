@@ -25,6 +25,7 @@
 
 Feel free to contact me :yum:
 <br><br>
+![Mastodon Follow](https://img.shields.io/mastodon/follow/111266776829036638?style=flat&logo=mastodon&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-storlak-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serdartorlak/)](https://www.linkedin.com/in/serdartorlak/)
 [![Website Badge](https://img.shields.io/badge/-torsland-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://torsland.wordpress.com)](https://torsland.wordpress.com)
 [![Twitter Badge](https://img.shields.io/badge/-@serdartorlak-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/serdartorlak)](https://twitter.com/serdartorlak)
