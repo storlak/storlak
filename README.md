@@ -1,8 +1,9 @@
 ### Hi, i am Serdar 👋 learning coding after long years...
 
-![Static Badge](https://img.shields.io/badge/IDE-VsCode-blue)
-![Static Badge](https://img.shields.io/badge/Python-GoLang-blue?logo=python)
-![Static Badge](https://img.shields.io/badge/HTML-CSS-orange)
+![Static Badge](https://img.shields.io/badge/VsCode-blue?logo=visualstudiocode&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&labelColor=yellow)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=HTML5&labelColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=CSS3&labelColor=black)
 
 - 🔭 I’m currently working on [Python Mini Projects](https://github.com/storlak/PythonMiniProjects) repository.
 - 🌱 Still learning Python, HTML, CSS. And soon GoLang. You can find all lessons and examples in my [PyLearn Repo](https://github.com/storlak/PyLearn).
