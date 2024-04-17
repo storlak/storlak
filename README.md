@@ -28,11 +28,12 @@
 Feel free to contact me :yum:
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-storlak-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serdartorlak/)](https://www.linkedin.com/in/serdartorlak/)
-[![Website Badge](https://img.shields.io/badge/-torsland-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://torsland.wordpress.com)](https://torsland.wordpress.com)
+[![Website Badge](https://img.shields.io/badge/-torsland-33c0d6?style=flat&logo=wordpress&logoColor=white&link=https://torsland.wordpress.com)](https://torsland.wordpress.com)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/111266776829036638?style=flat&logo=mastodon&color=blue)
 [![Twitter Badge](https://img.shields.io/badge/-@serdartorlak-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/serdartorlak)](https://twitter.com/serdartorlak)
 [![Instagram Badge](https://img.shields.io/badge/-@serdartorlak1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/serdartorlak1/)](https://instagram.com/serdartorlak1)
 [![Gmail Badge](https://img.shields.io/badge/-serdartorlak-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:serdartorlak@gmail.com)](mailto:serdartorlak@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-dev.to-000000?style=flat&logo=devdotto&logoColor=white&link=https://torsland.wordpress.com)](https://torsland.wordpress.com)
 
 <h3 align="left">Github Stats:</h3>
 <div align="left">
