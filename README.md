@@ -8,7 +8,7 @@
 - 🌱 Still learning Python, HTML, CSS. And soon GoLang. You can find all lessons and examples in my [PyLearn Repo](https://github.com/storlak/PyLearn).
 - 👯 Looking to collaborate on Python Mini Projects repository.
 - 📝 I <strong>regulary</strong> write articles on <a href="https://torsland.wordpress.com">my blog</a>.
-- 🤔 I’m looking for help with tkinter interface building.
+- 🤔 I’m looking for help with tkinter interface building and converting Python scripts to .exe.
 - 💬 Ask me about anything related to Python, Video Games.
 - 📫 Contact me: <a href="mailto:email@example.com, secondemail@example.com">Send Email</a>
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/storlak?tab=repositories">Github</a>.</li>
@@ -27,9 +27,9 @@
 
 Feel free to contact me :yum:
 <br><br>
-![Mastodon Follow](https://img.shields.io/mastodon/follow/111266776829036638?style=flat&logo=mastodon&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-storlak-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serdartorlak/)](https://www.linkedin.com/in/serdartorlak/)
 [![Website Badge](https://img.shields.io/badge/-torsland-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://torsland.wordpress.com)](https://torsland.wordpress.com)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/111266776829036638?style=flat&logo=mastodon&color=blue)
 [![Twitter Badge](https://img.shields.io/badge/-@serdartorlak-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/serdartorlak)](https://twitter.com/serdartorlak)
 [![Instagram Badge](https://img.shields.io/badge/-@serdartorlak1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/serdartorlak1/)](https://instagram.com/serdartorlak1)
 [![Gmail Badge](https://img.shields.io/badge/-serdartorlak-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:serdartorlak@gmail.com)](mailto:serdartorlak@gmail.com)
