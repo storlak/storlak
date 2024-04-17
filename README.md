@@ -1,7 +1,7 @@
 ### Hi, i am Serdar 👋 learning coding after long years...
 
 ![Static Badge](https://img.shields.io/badge/IDE-VsCode-blue)
-![Static Badge](https://img.shields.io/badge/python-tkinter-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/python-GoLang-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/HTML-CSS-orange)
 
 - 🔭 I’m currently working on [Python Mini Projects](https://github.com/storlak/PythonMiniProjects) repository.
