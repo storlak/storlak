@@ -2,8 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/IDE-VsCode-blue)
 ![Static Badge](https://img.shields.io/badge/python-tkinter-blue?logo=python)
-![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=HTML&logoColor=black&labelColor=orange&color=black)
-![Static Badge](https://img.shields.io/badge/CSS-orange?style=flat&logo=css&labelColor=orange&color=black)
+![Static Badge](https://img.shields.io/badge/HTML-CSS-orange)
 
 - 🔭 I’m currently working on [Python Mini Projects](https://github.com/storlak/PythonMiniProjects)
 - 🌱 Still learning Python, HTML, CSS. And soon GoLang.
