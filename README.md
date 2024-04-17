@@ -33,3 +33,8 @@ Feel free to contact me :yum:
 [![Twitter Badge](https://img.shields.io/badge/-@serdartorlak-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/serdartorlak)](https://twitter.com/serdartorlak)
 [![Instagram Badge](https://img.shields.io/badge/-@serdartorlak1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/serdartorlak1/)](https://instagram.com/serdartorlak1)
 [![Gmail Badge](https://img.shields.io/badge/-serdartorlak-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:serdartorlak@gmail.com)](mailto:serdartorlak@gmail.com)
+
+<h3 align="left">Github Stats:</h3>
+<div align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=storlak&" alt="storlak" />
+</div>
