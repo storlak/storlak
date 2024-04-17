@@ -16,7 +16,7 @@
 
 <h3>Latest blog posts</h3>
 <ul>
-  <li><a href="https://torsland.wordpress.com/2024/03/25/python-ile-url-kisaltici/"><b><img src="https://torsland.files.wordpress.com/2024/03/ekran-goruntusu-2024-03-25-195539.png" width="20" alt="new" /> URL Shortener with Python</b></a><br/><i>Tkinter&Python based URL shortener.</i></li>
+  <li><a href="https://torsland.wordpress.com/2024/03/25/python-ile-url-kisaltici/"target="_blank"><b><img src="https://torsland.files.wordpress.com/2024/03/ekran-goruntusu-2024-03-25-195539.png" width="20" alt="new" /> URL Shortener with Python</b></a><br/><i>Tkinter&Python based URL shortener.</i></li>
 
  <li><a href="https://torsland.wordpress.com/2024/03/18/ubuntu-23-10-ile-xfce/"><b><img src="https://ubuntuhandbook.org/wp-content/uploads/2020/07/change-displaymanager.png" width="20" alt="new" /> Ubuntu 23.10 with XFCE</b></a><br/><i>Installing XFCE to Gnome Ubuntu.</i></li>
 
