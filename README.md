@@ -4,9 +4,9 @@
 ![Static Badge](https://img.shields.io/badge/python-tkinter-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/HTML-CSS-orange)
 
-- 🔭 I’m currently working on [Python Mini Projects](https://github.com/storlak/PythonMiniProjects)
-- 🌱 Still learning Python, HTML, CSS. And soon GoLang.
-- 👯 Looking to collaborate on Python Mini Projects folder.
+- 🔭 I’m currently working on [Python Mini Projects](https://github.com/storlak/PythonMiniProjects) repository.
+- 🌱 Still learning Python, HTML, CSS. And soon GoLang. You can find all lessons and examples in my [PyLearn Repo](https://github.com/storlak/PyLearn).
+- 👯 Looking to collaborate on Python Mini Projects repository.
 - 📝 I <strong>regulary</strong> write articles on <a href="https://torsland.wordpress.com">my blog</a>.
 - 🤔 I’m looking for help with tkinter interface building.
 - 💬 Ask me about anything related to Python, Video Games.
@@ -21,6 +21,8 @@
   <li><a href="https://torsland.wordpress.com/2024/03/18/ubuntu-23-10-ile-xfce/" target="_blank"><b><img src="https://ubuntuhandbook.org/wp-content/uploads/2020/07/change-displaymanager.png" width="20" alt="new" /> Ubuntu 23.10 with XFCE</b></a><br/><i>Installing XFCE to Gnome Ubuntu.</i></li>
 
   <li><a href="https://torsland.wordpress.com/2024/01/09/python-exercises-finding-the-average-of-numbers-in-a-list/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Python Exercise</b></a><br/><i>Finding the average number in a list.</i></li>
+
+   <li><a href="https://torsland.wordpress.com/2023/12/17/python-fmean-veya-mean-fonksiyonlari-ve-kullanimi/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Using Statistics Module in Python</b></a><br/><i>using mean() and fmean().</i></li>
 </ul>
 
 Feel free to contact me :yum:
