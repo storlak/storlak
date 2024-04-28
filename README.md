@@ -25,10 +25,10 @@
 
    <li><a href="https://torsland.wordpress.com/2023/12/17/python-fmean-veya-mean-fonksiyonlari-ve-kullanimi/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Using Statistics Module in Python</b></a><br/><i>using mean() and fmean().</i></li>
 
-   <li><a href="https://torsland.wordpress.com/2023/12/02/vs-code-turkce-karakter-sorunu/" target="_blank"><b><img src="https://torsland.wordpress.com/wp-content/uploads/2023/12/screenshot-from-2023-12-02-10-28-45.png" width="20" alt="new" /> VS Code Türkçe Karakter Sorunu</b></a><br/><i>VS Code ile Türkçe karakter kullanımı).</i></li>
+   <li><a href="https://torsland.wordpress.com/2023/12/02/vs-code-turkce-karakter-sorunu/" target="_blank"><b><img src="https://torsland.wordpress.com/wp-content/uploads/2023/12/screenshot-from-2023-12-02-10-28-45.png" width="20" alt="new" /> VS Code Türkçe Karakter Sorunu</b></a><br/><i>VS Code ile Türkçe karakter kullanımı.</i></li>
 </ul>
 
-Feel free to contact me :yum:
+<h3>Feel free to contact me :yum:</h3>
 <br><br>
 [![Website Badge](https://img.shields.io/badge/-torsland-33c0d6?style=flat&logo=wordpress&logoColor=white&link=https://torsland.wordpress.com)](https://torsland.wordpress.com)
 [![Website Badge](https://img.shields.io/badge/-dev.to-000000?style=flat&logo=devdotto&logoColor=white&link=https://dev.to/kazure)](https://dev.to/kazure)
