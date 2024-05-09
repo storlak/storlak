@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Python Mini Projects](https://github.com/storlak/PythonMiniProjects) repository.
 - 🌱 Still learning Python, HTML, CSS. And soon GoLang. You can find all lessons and examples in my [PyLearn Repo](https://github.com/storlak/PyLearn).
-- 👯 Looking to collaborate on Python Mini Projects repository.
+- 👯 Looking to collaborate on Python Mini Projects [TorDictionary](https://github.com/storlak/PythonMiniProjects/tree/main/003%20-%20Dictionary) repository.
 - 📝 I <strong>regulary</strong> write articles on <a href="https://torsland.wordpress.com">my blog</a>.
-- 🤔 I’m looking for help with tkinter interface building and converting Python scripts to .exe.
+- 🤔 I’m looking for help with interface building and converting Python scripts to .exe and flatpak.
 - 💬 Ask me about anything related to Python, Video Games.
 - 📫 Contact me: <a href="mailto:email@example.com, secondemail@example.com">Send Email</a>
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/storlak?tab=repositories">Github</a>.</li>
