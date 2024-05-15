@@ -17,7 +17,7 @@
 
 <h3>Latest blog posts</h3>
 <ul>
-  <li><a href="https://torsland.wordpress.com/2024/05/12/top-ve-htop-komutlari/" target="_blank"><b><img src="https://redesylinux.com/wp-content/uploads/2020/08/1-10.png" width="20" alt="new" /> top ve htop komutları</b></a><br/><i>top and htop in Linux systems.</i></li>
+  <li><a href="https://torsland.wordpress.com/2024/05/12/top-ve-htop-komutlari/" target="_blank"><b><img src="https://redesylinux.com/wp-content/uploads/2020/08/1-10.png" width="20" alt="new" /> Top ve Htop Komutları</b></a><br/><i>top and htop in Linux systems.</i></li>
 
   <li><a href="https://torsland.wordpress.com/2024/03/25/python-ile-url-kisaltici/" target="_blank"><b><img src="https://torsland.files.wordpress.com/2024/03/ekran-goruntusu-2024-03-25-195539.png" width="20" alt="new" /> URL Shortener with Python</b></a><br/><i>Tkinter&Python based URL shortener.</i></li>
 
