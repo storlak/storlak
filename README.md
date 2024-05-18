@@ -15,18 +15,32 @@
 - ⚡ Fun fact: "Je parle Français :) and video games"
 
 <h3>Latest blog posts</h3>
-<ul>
-  <li><a href="https://torsland.wordpress.com/2024/05/12/top-ve-htop-komutlari/" target="_blank"><b><img src="https://redesylinux.com/wp-content/uploads/2020/08/1-10.png" width="20" alt="new" /> Top ve Htop Komutları</b></a><br/><i>top and htop in Linux systems.</i></li>
 
-  <li><a href="https://torsland.wordpress.com/2024/03/25/python-ile-url-kisaltici/" target="_blank"><b><img src="https://torsland.files.wordpress.com/2024/03/ekran-goruntusu-2024-03-25-195539.png" width="20" alt="new" /> URL Shortener with Python</b></a><br/><i>Tkinter&Python based URL shortener.</i></li>
+<table>
+  <tr>
+    <th>dev.to - blogposts in english</th>
+    <th>wordpress - blogposts in turkish</th>
+  </tr>
+  <tr>
+    <td>
+      <li><a href="https://dev.to/kazure/url-shortener-with-python-and-tkinter-4ooe" target="_blank"><b><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F099vkv5fyyu0fp8i8zc0.png" width="20" alt="new" /> URL Shortener with Python and Tkinter </b></a><br/><i>using pyshortener and tkinter.</i></li>
+      <li><a href="https://dev.to/kazure/d5l-dictionary-1l5j" target="_blank"><b><img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvddkyfisbbghk046jfo.png" width="20" alt="new" /> D5L Dictionary </b></a><br/><i>Dictionary written in Python.</i></li>
+       <li><a href="https://dev.to/kazure/linux-pip-install-problems-1cp1" target="_blank"><b><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffoydtvg4oyer9l33n09p.png" width="20" alt="new" /> Linux pip install problems </b></a><br/><i>The environment is externally managed.</i></li>
+     <li><a href="https://torsland.wordpress.com/2023/12/17/python-fmean-veya-mean-fonksiyonlari-ve-kullanimi/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Using Statistics Module in Python</b></a><br/><i>using mean() and fmean().</i></li>
+       <li><a href="https://torsland.wordpress.com/2023/12/17/python-fmean-veya-mean-fonksiyonlari-ve-kullanimi/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Using Statistics Module in Python</b></a><br/><i>using mean() and fmean().</i></li>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://torsland.wordpress.com/2024/05/12/top-ve-htop-komutlari/" target="_blank"><b><img src="https://redesylinux.com/wp-content/uploads/2020/08/1-10.png" width="20" alt="new" /> Top ve Htop Komutları</b></a><br/><i>Linux için top htop kullanımı.</i></li>
+        <li><a href="https://torsland.wordpress.com/2024/03/25/python-ile-url-kisaltici/" target="_blank"><b><img src="https://torsland.files.wordpress.com/2024/03/ekran-goruntusu-2024-03-25-195539.png" width="20" alt="new" /> Python ile URL kısaltıcı</b></a><br/><i>tkinter&pyshortener kütüphaneleri ile.</i></li>
+        <li><a href="https://torsland.wordpress.com/2024/03/18/ubuntu-23-10-ile-xfce/" target="_blank"><b><img src="https://ubuntuhandbook.org/wp-content/uploads/2020/07/change-displaymanager.png" width="20" alt="new" /> Ubuntu 23.10 ve XFCE</b></a><br/><i>Ubuntu 23.10'a XFCE nasıl kurulur?</i></li>
+        <li><a href="https://torsland.wordpress.com/2024/01/09/python-exercises-finding-the-average-of-numbers-in-a-list/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Python Örnek</b></a><br/><i>listede ortalama sayıyı bulma.</i></li>
+        <li><a href="https://torsland.wordpress.com/2023/12/02/vs-code-turkce-karakter-sorunu/" target="_blank"><b><img src="https://torsland.wordpress.com/wp-content/uploads/2023/12/screenshot-from-2023-12-02-10-28-45.png" width="20" alt="new" /> VS Code Türkçe Karakter Sorunu</b></a><br/><i>VS Code ile Türkçe karakter kullanımı.</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  <li><a href="https://torsland.wordpress.com/2024/03/18/ubuntu-23-10-ile-xfce/" target="_blank"><b><img src="https://ubuntuhandbook.org/wp-content/uploads/2020/07/change-displaymanager.png" width="20" alt="new" /> Ubuntu 23.10 with XFCE</b></a><br/><i>Installing XFCE to Gnome Ubuntu.</i></li>
-
-  <li><a href="https://torsland.wordpress.com/2024/01/09/python-exercises-finding-the-average-of-numbers-in-a-list/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Python Exercise</b></a><br/><i>Finding the average number in a list.</i></li>
-
-   <li><a href="https://torsland.wordpress.com/2023/12/17/python-fmean-veya-mean-fonksiyonlari-ve-kullanimi/" target="_blank"><b><img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="20" alt="new" /> Using Statistics Module in Python</b></a><br/><i>using mean() and fmean().</i></li>
-
-   <li><a href="https://torsland.wordpress.com/2023/12/02/vs-code-turkce-karakter-sorunu/" target="_blank"><b><img src="https://torsland.wordpress.com/wp-content/uploads/2023/12/screenshot-from-2023-12-02-10-28-45.png" width="20" alt="new" /> VS Code Türkçe Karakter Sorunu</b></a><br/><i>VS Code ile Türkçe karakter kullanımı.</i></li>
 </ul>
 
 Feel free to contact me :yum:
