@@ -18,8 +18,8 @@
 
 <table>
   <tr>
-    <th>dev.to - blogposts in english</th>
-    <th>wordpress - blogposts in turkish</th>
+    <th>posts in english</th>
+    <th>posts in turkish</th>
   </tr>
   <tr>
     <td>
